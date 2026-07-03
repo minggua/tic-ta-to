@@ -28,11 +28,11 @@ No other external packages are needed — the project only uses Python's built-i
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/minggua/tic-ta-to.git
    ```
 2. Navigate into the project folder:
    ```
-   cd YOUR_REPO_NAME
+   cd tic-ta-to
    ```
 3. Run the game:
    ```
