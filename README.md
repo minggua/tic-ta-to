@@ -32,7 +32,7 @@ No other external packages are needed — the project only uses Python's built-i
    ```
 2. Navigate into the project folder:
    ```
-   cd tic-ta-to
+   cd tic-tac-toe
    ```
 3. Run the game:
    ```
