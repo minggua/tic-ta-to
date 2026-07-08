@@ -1,10 +1,11 @@
 # Tic-Tac-Toe
 
-**Group Members:** tangmingguang, Marin Wathna, Mony Thi_Radeth, Inn Pongwathnak, Ky Rath Tevy, Keomoniroath, Yi Oun, Vattanakbandid, Heng Piseth, Kosamak
+**Group Members:** Tang mingguang, Marin Wathna, Mony Thiradeth, Inn Pongwathnak, Ky RathTevy,Chea Keomoniroath, Tea Yioun, Sambun Vattanakbandid, Heng Piseth, Kong Kosamak.
 
+*Repository hosted on Tang Mingguang's GitHub account*
 ## Description
 
-This project is a two-player Tic-Tac-Toe game built with Python's `tkinter` library. Players take turns clicking on a 3x3 grid to place their mark ("x" or "o"). The game automatically detects wins (rows, columns, diagonals) and ties, highlights the winning line in green, and lets players start a new game with the "restart" button.
+A two-player Tic-Tac-Toe game built with Python's `tkinter` library. Players enter their names, take turns clicking squares on a 3x3 grid, and the game automatically detects wins and ties while tracking each player's score.
 
 ## Prerequisites & Installation
 
